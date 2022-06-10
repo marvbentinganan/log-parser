@@ -1,0 +1,7 @@
+/vendor
+/.idea
+/.vscode
+/.vagrant
+/builds/.env
+.phpunit.result.cache
+.env
